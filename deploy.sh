@@ -30,7 +30,7 @@ git commit -m "${message}"
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:alphawq/FEE-doc.git master:gh-pages
-git push -f git@github.com:aa978563552/FEE-doc.git master:gh-pages
+git push -f git@github.com:sjli/FEE-doc.git master:gh-pages
 
 cd -
 
