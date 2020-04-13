@@ -56,14 +56,14 @@ module.exports = {
           //     children: ['/zh/arms/2.0/client', '/zh/arms/2.0/server']
           //   }
           // ],
-          // '/zh/qingchan/': [
-          //   '/zh/qingchan/',
-          //   {
-          //     title: '青蝉',
-          //     collapsable: false,
-          //     children: ['/zh/qingchan/01']
-          //   }
-          // ]
+          '/zh/qingchan/': [
+            '/zh/qingchan/',
+            {
+              title: '青蝉',
+              collapsable: false,
+              children: ['/zh/qingchan/01']
+            }
+          ]
         }
       },
       // '/en/': {
