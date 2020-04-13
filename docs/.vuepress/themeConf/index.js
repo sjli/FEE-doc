@@ -13,9 +13,8 @@ exports.nav = [
       // }
     ]
   },
-  // {
-  //   text: '青蝉系统',
-  //   link: '/zh/qingchan/',
-  //   icon: 'el-icon-edit'
-  // }
+  {
+    text: '青蝉系统',
+    link: '/zh/qingchan/',
+  }
 ]

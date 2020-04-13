@@ -59,7 +59,7 @@ module.exports = {
           '/zh/qingchan/': [
             '/zh/qingchan/',
             {
-              title: '青蝉',
+              title: '使用说明',
               collapsable: false,
               children: ['/zh/qingchan/01']
             }
